@@ -21,7 +21,7 @@ CLAUDE_API_KEY=xxx
 
 # DeepSeek 模型
 # - LLM 提供商：deepseek，例如：LLM_MODEL=deepseek-chat
-DEEPSEEK_API_KEY=sk-7d1ca51a9bb74936861631bda230f0bc
+DEEPSEEK_API_KEY=xxx
 
 # GLM 模型
 # - LLM 提供商：glm，例如：LLM_MODEL=glm-4-flash
