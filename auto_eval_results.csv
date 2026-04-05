@@ -1,0 +1,6 @@
+﻿id,topic,outline_valid,content_valid,latency_seconds,retries_used,json_valid_rate,field_completeness_rate,over_limit_rate,retrieval_hit_quality,user_final_modification_rate,slide_count,error
+sample_001,人工智能与软件工程：企业知识库问答升级,False,False,9.222,0,,,,,,0,outline未生成有效Markdown大纲
+sample_002,人工智能与软件工程：代码生成在研发团队中的落地,False,False,9.03,0,,,,,,0,outline未生成有效Markdown大纲
+sample_003,人工智能与软件工程：多智能体协作的业务编排,False,False,17.233,0,,,,,,0,outline未生成有效Markdown大纲
+sample_004,人工智能与软件工程：AI 客服从问答到闭环处理,False,False,9.329,0,,,,,,0,outline未生成有效Markdown大纲
+sample_005,人工智能与软件工程：模型评测体系建设,True,True,963.107,1,0.2967,1.0,0.2131,0.8571,0.0899,27,

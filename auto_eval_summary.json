@@ -1,0 +1,14 @@
+{
+  "sample_count": 5,
+  "outline_valid_count": 1,
+  "content_valid_count": 1,
+  "success_count": 1,
+  "failure_count": 4,
+  "average_latency_seconds_all": 201.5842,
+  "average_retries_all": 0.2,
+  "json_valid_rate_on_success": 0.2967,
+  "field_completeness_rate_on_success": 1.0,
+  "over_limit_rate_on_success": 0.2131,
+  "retrieval_hit_quality_on_success": 0.8571,
+  "user_final_modification_rate_on_success": 0.0899
+}
