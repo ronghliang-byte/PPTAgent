@@ -1,6 +1,6 @@
-# TrainPPTAgent
+# PPTAgent
 
-> 一个面向训练、生成与模板化的 AI PPT 项目。支持大纲生成、内容生成、模板获取/标注，以及训练数据构建。
+> 一个面向生成与模板化的 AI PPT 项目。支持大纲生成、内容生成、模板获取/标注，以及自动化评估。
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white">
@@ -14,7 +14,7 @@
 
 ## 项目简介
 
-`TrainPPTAgent` 是一个围绕 AI 生成 PPT 的完整工程，覆盖了：
+`PPTAgent` 是一个围绕 AI 生成 PPT 的完整工程，覆盖了：
 
 - **PPT 大纲生成**：根据主题生成结构化 Markdown 大纲
 - **PPT 内容生成**：将 Markdown 大纲转换为页面级 JSON 数据
@@ -28,7 +28,6 @@
 - AI PPT 产品原型开发
 - PPT 内容生成链路验证
 - 模板化演示文稿生成实验
-- 强化学习 / 训练数据生成场景
 
 ---
 
@@ -72,20 +71,10 @@
 - `doc/Template.md`
 - `template/README.md`
 
-### 4. 训练数据生成
 
-项目内置了一些用于生成训练数据的脚本和样例，适合用于：
+### 4. 自动化评估
 
-- 强化学习奖励设计实验
-- PPT 结构化数据构建
-- 自动评测数据集生成
 
-相关说明见：
-
-- `doc/Train.md`
-- `utils/README.md`
-- `build_eval_dataset.py`
-- `run_auto_eval.py`
 
 ---
 
